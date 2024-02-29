@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "fs": "^0.0.1-security",
-    "nodemon": "^3.1.0"
+    "nodemon": "^3.1.0",
+    "sqlite3": "^5.1.7"
   }
 }
